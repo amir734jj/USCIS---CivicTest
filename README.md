@@ -16,7 +16,7 @@ Setup:
 	
 		|--- Express.js
 		|--- body-parser
-		|-- cookie-parser
+		|--- cookie-parser
 		|--- Jade
 Or just let npm install packages all at one:
 
