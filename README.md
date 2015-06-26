@@ -22,3 +22,5 @@ Setup:
 Or just let npm install packages all at one:
 
 		npm install
+
+I don't own the questions, audio files and pictures. They are being copied from USCIS website.
