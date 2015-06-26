@@ -33,4 +33,8 @@ Create a sqlite database under ./database/sqlite.db
 		`Hashcode`	TEXT,
 		`Score`	REAL
 	);
-I don't own the questions, audio files and pictures. They are being copied from USCIS website.
+	
+Then:
+	node server.js
+
+--- I don't own the questions, audio files and pictures. They are being copied from USCIS website.
