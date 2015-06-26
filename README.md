@@ -18,7 +18,7 @@ Setup:
 		|--- body-parser
 		|--- cookie-parser
 		|--- Jade
-		|--- SQLite3 for Node
+		|--- SQLite3
 Or just let npm install packages all at one:
 
 		npm install
