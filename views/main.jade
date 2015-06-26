@@ -1,0 +1,20 @@
+extends ./layout.jade
+
+block content
+	.container
+		H3 Your Current Score is: #{score}
+		
+		table(class="table table-borderd")
+			thead
+				tr
+					th Name
+					th Score
+			tbody
+				- each element in db
+					tr
+						td=element.name
+						td=element.score
+		div.btn-group
+			button.btn.btn-success(onClick="window.location='/testing'") Testing Knowledge
+			button.btn.btn-success(onClick="window.location='/learning'") Learning Knowledge
+			button.btn.btn-primary(onClick="window.location='/logout'") Logout

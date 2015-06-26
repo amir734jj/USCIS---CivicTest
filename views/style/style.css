@@ -1,0 +1,29 @@
+		body {
+			background-color: #333;
+			font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+		}
+		
+		h3 {
+			font-weight: bold;
+		}
+		
+		.jumbotron,
+		.container {}
+		
+		#slide-show-1 {
+			margin-left: 10px;
+			width: 100%;
+		}
+		
+		#slide-show-2 {
+			margin-right: 10px;
+			width: 100%;
+		}
+		
+		.container {}
+		
+		textarea {
+			font-size: 300%;
+			font-family: Arial;
+			font-weight: bold;
+		}
