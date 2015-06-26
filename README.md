@@ -23,4 +23,14 @@ Or just let npm install packages all at one:
 
 		npm install
 
+Create a sqlite database under ./database/sqlite.db
+
+	CREATE TABLE `Users` (
+		`Name`	TEXT,
+		`Email`	TEXT,
+		`Username`	TEXT,
+		`Password`	TEXT,
+		`Hashcode`	TEXT,
+		`Score`	REAL
+	);
 I don't own the questions, audio files and pictures. They are being copied from USCIS website.
