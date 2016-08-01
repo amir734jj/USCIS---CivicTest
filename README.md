@@ -1,4 +1,4 @@
-# USCIS---CivicTest
+# USCIS_CivicTest
 Platform to Learn and Test Knowledge for USCIS Naturalization Exam
 
 The goal of this application is to use the contents that are already available at USCIS website to create an interactive web application to learn and test knowledge of civics.
